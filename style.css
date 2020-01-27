@@ -1,0 +1,49 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    } */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    /* background-color: azure; */
+}
+.title{
+    margin-top:-60px;
+}
+
+h1 {
+
+}
+
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+.container{
+    position: relative;
+    margin: 8em;
+}
+
+#kyle{
+    transform: scale(.3);
+    margin-top: -900px;
+    margin-left: -900px;
+}
+
+.project{
+    padding-top: 10px;
+    margin-top: 0;
+    padding-bottom: 80px;
+}
